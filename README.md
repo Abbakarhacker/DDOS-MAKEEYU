@@ -1,5 +1,9 @@
 # DDOS-MAKEEYU
 
+Warning: for educational purposes only DO NOT ATTACK GOV WEBSITE
+
+        [!]This is a denger attack any miss use your risk[!]
+
 pkg update 
 
 pkg upgrade 
