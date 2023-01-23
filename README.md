@@ -1,27 +1,40 @@
 # DDOS-MAKEEYU
 
-Warning: for educational purposes only DO NOT ATTACK GOV WEBSITE
+<h2>Warning: for educational purposes only DO NOT ATTACK GOV WEBSITE</h2>
 
-        [!]This is a denger attack any miss use your risk[!]
+        <h2>[!]This is a denger attack any miss use your risk[!]</h2>
 
-pkg update 
 
-pkg upgrade 
+<h1>Installation for Termux </h1>
 
-pkg install python 
+<p>pkg update <p>
 
-pkg install python2 
+<p>pkg upgrade </p>
 
-pip3 install requests pysocks
+<p>pkg install python </p>
 
-pkg install git 
+<p>pkg install python2 </p>
 
-git clone https://github.com/Abbakarhacker/DDOS-MAKEEYU.git
+<p>pip3 install requests pysocks</p>
 
-ls
+<p>pkg install git </p>
 
-cd DDOS-MAKEEYU 
+<p>git clone https://github.com/Abbakarhacker/DDOS-MAKEEYU.git</p>
 
-ls
+<p>ls  </p>
 
-python DDos_Attack.py 
+<p>cd DDOS-MAKEEYU </p>
+
+<p>ls</p>
+
+<p>python DDOS.py</p>
+
+<h1>Installation for Linux or parrotos or backbox</h1>
+
+<p>apt-get update &&apt-get upgrade </p>
+<p>apt install python &&apt install git </p>
+<p>git clone https://github.com/Abbakarhacker/DDOS-MAKEEYU.git</p>
+<p>ls</p>
+<p>cd DDOS-MAKEEYU </p>
+<p>ls</p>
+<p>python DDOS.py</p>
